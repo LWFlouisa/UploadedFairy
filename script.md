@@ -1,6 +1,7 @@
 ---
 title: Uploaded Fairy Script
 author: SRWeaver
+permalink: /script
 ---
 UPLOADED FAIRY
 
