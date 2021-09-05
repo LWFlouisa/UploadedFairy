@@ -5,9 +5,8 @@
 body {
   font-family: 'Droid Sans', sans-serif;
   font-size: 15px;
-  color: red;
+  color: #A31212;
   padding-top: 20px;
-  background-image: url({{ site.url }}/images/grid.png);
   background-color: red;
 }
 
