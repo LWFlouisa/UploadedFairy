@@ -52,6 +52,9 @@ body {
   float: none;
 }
 
+a {
+  color: lime;
+}
 
 
 /* HEADER STYLES */
