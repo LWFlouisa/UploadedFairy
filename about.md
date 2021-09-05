@@ -3,6 +3,8 @@ layout: default
 title: About
 permalink: /about
 ---
+![image](https://raw.githubusercontent.com/LWFlouisa/EmirotamoSynd/main/images/threehundredbuilding.png)
+
 # About the Comic
 
 Uploaded Fairy is a four frame novel about an apprentice executioner torn between love and justice, and a gamer girl in danger of repeating the same desires.
