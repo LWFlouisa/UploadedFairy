@@ -47,7 +47,7 @@ tante - tanite<br />
 oncle - oji<br />
 cabin - cabine - sfabine
 
-### Nouns<br />
+### Common Nouns<br />
 knife - cuto<br />
 key - cere<br />
 chair - xase<br />
@@ -78,6 +78,14 @@ cave - sfavare<br />
 disconsider - nikoryo<br />
 unexpress - nitoko<br />
 painless - nitami<br />
+
+### Proper Nouns
+Engineer - enijere
+Doc Martin -  isamarutano
+Shrink - sirinike
+Dentist - sadisite
+Green Thumb - poce di evene
+Doc Brown - Isaberune
 
 ### Nouns With Two Versions<br />
 atmosphere - atimosipilere ( polite ) or funiki ( casual )<br />
