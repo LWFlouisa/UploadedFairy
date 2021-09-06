@@ -87,26 +87,40 @@ caterpillar - chenille or kyatapira - xehene ( polite ) or kytapira ( casual )
 ### Adjectives<br />
 batch - ebax<br />
 shiny - beloyan<br />
+dull - nibeloyan<br />
 rusty - uchay<br />
 brown - berane<br />
 black - enere<br />
 tell - pahe<br />
+unsaid - nipahe<br />
 visualized - visarize<br />
+unvisualized -nivisarize<br />
 windy - venituse<br />
-careful - kiwotsukero<br />
+careful - kiwosukero<br />
+careless - nikiwosukero<br />
 hairy - kebuka<br />
+unhair - nikebuka<br />
 worshiping - sula<br />
+unworshiping - nisula<br />
 hanging - kosatasu<br />
+unhanging - nikosatasu<br />
 working - latadake<br />
+retired - nilatadake<br />
 excruciating - ateroce<br />
+comforting - niteroce<br />
 affordable - aboradaberu<br />
+unaffordable - niboradaberu<br />
 settable - regarabehe<br />
 artistic - arutesiqe<br />
+inartistic - nirutesiqe<br />
 bashful - etimire<br />
-cautious -
+bold - nitimire<br />
+cautious - perudenite<br />
+reckless - niperudenite<br />
 
 ### Adjectives With Two Versions<br />
-alone - seul or hitori - eseru ( polite ) or hitori ( rude )<br />
+alone - sul or hitori - eseru ( polite ) or hitori ( rude )<br />
+accompany - niseru ( polite ) or nitori ( rude )<br />
 
 ### Conjunctions And Prepositions<br />
 de - di<br />
@@ -131,22 +145,34 @@ are - ade<br />
 
 ### Verbs<br />
 cuts - cupo<br />
+mend - nicupo<br />
 unlocks - uvere<br />
+locks - roku<br />
 sit - asochi<br />
+stand - nisochi<br />
 reads - lisoje<br />
 recite - decite<br />
+unrecite - nidecite<br />
 blow - sufere<br />
 showing - exipoze<br />
+hide - kakureru<br />
 decide - kimeru<br />
+undecide - nikimeru<br />
 roar - loko<br />
 ache - uzuke<br />
+comfort - nizuke<br />
 adjust - xosfe<br />
+unadjust - nixosfe<br />
 ring - yubiwav<br />
 attach - atachi<br />
+unattach - nitachi<br/>
 behave - furuma<br />
+unbehave - nifuruma<br />
 belong - zokusuru<br />
+unbelong - nizokusuru<br />
 blink - cerine<br />
 bundle - konitoru<br />
+unbundle - nikonitoru<br/>
 cave - erokute<br />
 
 ### Verbs With Two Versions<br />
@@ -159,10 +185,12 @@ borrow - emprunter or karite - emiperunite ( polite ) or karite ( casual )<br />
 swiftly - vite<br />
 slowly - hente<br />
 quietly - mute<br />
+loudly - dusa<br />
 funnily - dolemente<br />
+seriously - nidolemente<br />
 precise -  pedecise<br />
 imprecise - mopedecise<br />
-briskly - vivemeje<br />
 decisively - ketasuzejo<br />
-loudly - dusa<br />
+indecisively - niketasuzejo<br />
 painfully - terebereme<br />
+comfortably - niterabereme<br />
