@@ -75,6 +75,9 @@ guillotine basket - besukete di giroxn ( rude )<br />
 batch - gerope<br />
 bundle - banidoru<br />
 cave - sfavare<br />
+disconsider - nikoryo<br />
+unexpress - nitoko<br />
+painless - nitami<br />
 
 ### Nouns With Two Versions<br />
 atmosphere - atmosphere or fun'niki - atimosipilere ( polite ) or funiki ( casual )<br />
