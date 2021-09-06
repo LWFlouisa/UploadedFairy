@@ -124,20 +124,19 @@ alone - eseru ( polite ) or hitori ( rude )<br />
 accompany - niseru ( polite ) or nitori ( rude )<br />
 
 ### Conjunctions And Prepositions<br />
-di - of<br />
+di, ox - of<br />
 ni - is not<br />
 si - it<br />
 isi - is<br />
 ow - to, at<br />
-aux - ox<br />
 suis - swa<br />
-quelque - esaoma<br />
-qui - qi<br />
-que - qo<br />
-quand - qunida<br />
-quel - cero<br />
-avec - avesi<br />
-des - dez<br />
+quelque - esoma<br />
+qi - who<br />
+qo - that<br />
+qunida - when<br />
+cero - what<br />
+avesi - with<br />
+dez - from<br />
 
 Japanese Loaned Adjectives<br />
 kore - kode<br />
