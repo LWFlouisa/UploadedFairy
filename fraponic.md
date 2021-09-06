@@ -124,11 +124,11 @@ alone - eseru ( polite ) or hitori ( rude )<br />
 accompany - niseru ( polite ) or nitori ( rude )<br />
 
 ### Conjunctions And Prepositions<br />
-de - di<br />
-ne - ni<br />
-ce - si<br />
-est - isi<br />
-au - ow<br />
+di - of<br />
+ni - is not<br />
+si - it<br />
+isi - is<br />
+ow - to, at<br />
 aux - ox<br />
 suis - swa<br />
 quelque - esaoma<br />
