@@ -80,9 +80,10 @@ unexpress - nitoko<br />
 painless - nitami<br />
 
 ### Nouns With Two Versions<br />
-atmosphere - atmosphere or fun'niki - atimosipilere ( polite ) or funiki ( casual )<br />
-bolt - verrouiler or boruto - boruto ( casual ) or verohe ( polite )<br />
-caterpillar - chenille or kyatapira - xehene ( polite ) or kytapira ( casual )
+atmosphere - atimosipilere ( polite ) or funiki ( casual )<br />
+unatmospere - nitimosipilere ( polite ) or nifuniki ( casual )<br />
+bolt - boruto ( casual ) or verohe ( polite )<br />
+caterpillar - xehene ( polite ) or kytapira ( casual )
 
 ### Adjectives<br />
 batch - ebax<br />
@@ -119,7 +120,7 @@ cautious - perudenite<br />
 reckless - niperudenite<br />
 
 ### Adjectives With Two Versions<br />
-alone - sul or hitori - eseru ( polite ) or hitori ( rude )<br />
+alone - eseru ( polite ) or hitori ( rude )<br />
 accompany - niseru ( polite ) or nitori ( rude )<br />
 
 ### Conjunctions And Prepositions<br />
