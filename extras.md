@@ -116,21 +116,17 @@ permalink: /extras
 
     <div class="container">
        <div class="mySlides">
-         // Large Image
-         <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/background1.jpg" height="440px" width="640px">
+         <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/background1.jpg" height="160px" width="240px">
        </div>
       
        </div>
 
        <a class="prev" onclick="plusSlides(-1)">❮</a>
        <a class="next" onclick="plusSlides(1)">❯</a>
-
-       <h3>GALLERY</h3><br />
       
        <div class="row">
          <div class="column">
-           // Small Image
-           <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/background1.jpg" height="160px" width="320px">
+           <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/background1.jpg" height="80px" width="160px">
          </div>
        </div>
     </div>
