@@ -116,7 +116,7 @@ permalink: /extras
 
     <div class="container">
        <div class="mySlides">
-         <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/background1.jpg" width="75%">
+         <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/lisamarie.png" height="440px" width="640px">
        </div>
 
        <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -124,7 +124,7 @@ permalink: /extras
       
        <div class="row">
          <div class="column">
-           <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/background1.jpg" height="80px" width="160px">
+           <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/lisamarie.png" height="80px" width="160px">
          </div>
        </div>
     </div>
