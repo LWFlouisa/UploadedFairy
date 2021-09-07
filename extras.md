@@ -116,7 +116,7 @@ permalink: /extras
 
     <div class="container">
        <div class="mySlides">
-         <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/lisamarie.png" height="440px" width="640px">
+         <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/lisamarie.png">
        </div>
 
        <a class="prev" onclick="plusSlides(-1)">❮</a>
