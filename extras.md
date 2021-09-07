@@ -23,7 +23,7 @@ permalink: /extras
       }
 
       img {
-        vertical-align: middle;
+        vertical-align: left;
       }
 
       /* Position the image container (needed to position the left and right arrows) */
