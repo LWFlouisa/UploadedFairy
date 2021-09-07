@@ -1,103 +1,179 @@
-<style>
-  body {
-    background-color: black;
-    color: lime;
-  }
-  
-  h1, h2, h3, h4, h5, h6, p, pre {
-    color: lime;
-  }
-  
-  a {
-    color: blue;
-  }
-  
- /* The grid: Four equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 25%;
-  padding: 10px;
-}
+<html>
+  <head>
+    <title>Gallery</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      body {
+        background-image: url("https://github.com/LWFlouisa/videos/blob/main/images/youtuberose.png?raw=true");
 
-/* Style the images inside the grid */
-.column img {
-  opacity: 0.8;
-  cursor: pointer;
-}
+        font-family: Arial;
+        margin: 0;
+      }
 
-.column img:hover {
-  opacity: 1;
-}
+      h1, h2, h3, h4, h5, h6, p {
+         color: lime;
+      }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+      * {
+        box-sizing: border-box;
+      }
 
-/* The expanding image container (positioning is needed to position the close button and the text) */
-.container {
-  position: relative;
-  display: none;
-}
+      img {
+        vertical-align: middle;
+      }
 
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
+      /* Position the image container (needed to position the left and right arrows) */
+      .container {
+        position: relative;
+      }
 
-/* Closable button inside the image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-} 
-</style>
+      /* Hide the images by default */
+      .mySlides {
+        display: none;
+      }
 
-<body>
-<!-- The expanding image container -->
-<div class="container">
-  <!-- Close the image -->
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+      /* Add a pointer when hovering over the thumbnail images */
+      .cursor {
+        cursor: pointer;
+      }
 
-  <!-- Expanded image -->
-  <center><img id="expandedImg" style="width:33%"></center>
+      /* Next & previous buttons */
+      .prev,
+      .next {
+        cursor: pointer;
+        position: absolute;
+        top: 40%;
+        width: auto;
+        padding: 16px;
+        margin-top: -50px;
+        color: white;
+        font-weight: bold;
+        font-size: 20px;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+        -webkit-user-select: none;
+      }
 
-  <!-- Image text -->
-  <div id="imgtext"></div>
-</div>
+      /* Position the "next button" to the right */
+      .next {
+        right: 0;
+        border-radius: 3px 0 0 3px;
+      }
 
-<!-- The grid: four columns -->
-<div class="row">
-  <div class="column">
-    <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/background1.jpg" alt="lisamarie" onclick="myFunction(this);">
-  </div>
-</div>
+      /* On hover, add a black background color with a little bit see-through */
+      .prev:hover,
+      .next:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+      }
+
+      /* Number text (1/3 etc) */
+      .numbertext {
+        color: #f2f2f2;
+        font-size: 12px;
+        padding: 8px 12px;
+        position: absolute;
+        top: 0;
+      }
+
+      /* Container for image text */
+      .caption-container {
+        text-align: center;
+        background-color: #222;
+        padding: 2px 16px;
+        color: white;
+      }
+
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+      /* Six columns side by side */
+      .column {
+        float: left;
+        width: 16.66%;
+      }
+
+      /* Add a transparency effect for thumnbail images */
+      .demo {
+        opacity: 0.6;
+      }
+
+      .active,
+      .demo:hover {
+        opacity: 1;
+      }
+  </style>
+  </head>
+
+  <body>
+    <center>
+    <h2 style="text-align:center">HistoryOfEsfiomi</h2>
+
+    <p>Esfiomi is a sister medium of sequential art to manga, and can be thought of as the American equivalent to Nouvelle Manga at its logical extension. The history of the medium is founded on anarchist newsletters and magazine distributed discretely that provided entertainment, when protesting the occupation by the French and Japanese occupying paramilitaries.</p>
+      
+    <a href="https://lwflouisa.github.io/homepage">Return</a>
+
+    <div class="container">
+       <div class="mySlides">
+         <video width="640" height="440" controls>
+           <source src="https://github.com/LWFlouisa/videos/blob/main/Hafestran%20As%20A%20Hybrid%20Language.mp4?raw=true" type="video/mp4">
+         </video>
+       </div>
+      
+       <div class="mySlides">
+         <video width="640" height="440" controls>
+           <source src="https://github.com/LWFlouisa/videos/blob/main/What%20Is%20Esiomi%20And%20What%20It%20Isn't.mp4?raw=true" type="video/mp4">
+         </video>
+       </div>
+
+       <a class="prev" onclick="plusSlides(-1)">❮</a>
+       <a class="next" onclick="plusSlides(1)">❯</a>
+
+       <h3>VIDEOS</h3><br />
+      
+       <div class="row">
+         <div class="column">
+           <img width="320px" height="160px" class="demo cursor" src="https://github.com/LWFlouisa/videos/blob/main/images/youtuberose.png?raw=true" type="video/mp4" style="width:100%" onclick="currentSlide(1)" alt="Hafestran As A Hybrid-Creole And Impact On Esfiomi As A Medium">
+         </div>
+
+         <div class="column">
+           <img width="320px" height="160px" class="demo cursor" src="https://github.com/LWFlouisa/videos/blob/main/images/redhairbeheading.png?raw=true" type="video/mp4" style="width:100%" onclick="currentSlide(2)" alt="Hafestran As A Hybrid-Creole And Impact On Esfiomi As A Medium">
+         </div>
+       </div>
+    </div>
+    </center>
 
 <script>
-function myFunction(imgs) {
-  // Get the expanded image
-  var expandImg = document.getElementById("expandedImg");
+var slideIndex = 1;
+showSlides(slideIndex);
 
-  // Get the image text
-  var imgText = document.getElementById("imgtext");
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
 
-  // Use the same src in the expanded image as the image being clicked on from the grid
-  expandImg.src = imgs.src;
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
 
-  // Use the value of the alt attribute of the clickable image as text inside the expanded image
-  imgText.innerHTML = imgs.alt;
-
-  // Show the container element (hidden with CSS)
-  expandImg.parentElement.style.display = "block";
-} 
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
 </script>
-</body>
+  </body>
+</html>
