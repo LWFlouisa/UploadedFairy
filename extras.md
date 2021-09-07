@@ -58,7 +58,7 @@ permalink: /extras
 <!-- The grid: four columns -->
 <div class="row">
   <div class="column">
-    <img src="" alt="image" onclick="myFunction(this);">
+    <img src="https://lwflouisa.github.io/UploadedFairy/images/gallery/background1.jpg" alt="lisamarie" onclick="myFunction(this);">
   </div>
 </div>
 
