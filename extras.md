@@ -119,14 +119,16 @@ permalink: /extras
          <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/lisamarie.png">
        </div>
       
+       <br />
+      
+       <a class="prev" onclick="plusSlides(-1)">❮</a>
+       <a class="next" onclick="plusSlides(1)">❯</a>
+      
        <div class="row">
          <div class="column">
            <img src="https://raw.githubusercontent.com/LWFlouisa/UploadedFairy/main/images/gallery/lisamarie.png" height="80px" width="160px">
          </div>
        </div>
-      
-       <a class="prev" onclick="plusSlides(-1)">❮</a>
-       <a class="next" onclick="plusSlides(1)">❯</a>
     </div>
     </center>
 
