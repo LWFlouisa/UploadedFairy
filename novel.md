@@ -3,7 +3,7 @@ title: Uploaded Fairy Novel
 author: SRWeaver
 permalink: /novel
 ---
-Hemato’s Guilt
+### Hemato’s Guilt
 
 SCENE 1 - COMPUTER NETWORK ROOM
 
@@ -46,7 +46,8 @@ HEMATO: Hemato, you know it doesn’t have to be this way. (Hemato smokes an ele
 HEMATO: But what about the others? (Points to the guards attempting to rescue to hijacked computer chamber.)
 
 HEMATO: I will deal with them.
-My Name Is Hemato
+
+### My Name Is Hemato
 
 My name is Hemato-Tomato, I have a thing for blood.
 
@@ -151,7 +152,8 @@ I saw in this one character I did like, something more. Some better part of myse
 For me, when I met Anna-Marie, my feelings for her were an odd mixture of the girl I liked and the girl I didn’t. I was never quite sure which one it was. It only took a moment to fade to black, when I was hit by an oncoming bus. Strapped into a broken motorcycle, cycling their the air like an airplane. I expected it to hurt for more than how it manifested.
 Une Danse De Mort
 
-SCENE 1 – TATTOO PARLOR
+### The Tattoo Parlor
+#### SCENE 1 – TATTOO PARLOR
 
 HEMATO: Francaise hanasemasu ka?
 
@@ -167,7 +169,7 @@ ARTIST: Relax Hemato, with this technology, there wont be any mistakes.
 
 Hemato had just learned how to drive, and was already able to drive a motorized scooter. While others preferred motorcycles, she had the final laugh, when she could simply plug her transportation in. And not have to worry about Gas prices.
 
-SCENE 2 – The first civil Rights Era
+### SCENE 2 – The first civil Rights Era
 
 While we normally think of the civil rights era, in terms of figures like Martin Luther King, perhaps an even greater tragedy was the gradual rising of gas prices. It wasn’t terribly expensive back then. Yet now scientist are discussing about climate catastrophe by the time 2050 rolls around.
 
@@ -233,7 +235,9 @@ Because we all do it people.
 But all this to say, French girl had their own allure.
 
 For Anna-Marie, this allure was in death.
-What They Call Loneliness
+
+
+### What They Call Loneliness
 
 What they call loneliness, in the world of the net, is really a symptom of addiction. Some call it addiction to the social life, despite all the evidence to the contrary based on its unsociableness. The symptoms a manifestation of a larger disease more toxic to humanity than the fetish for blood and decapitation. For me, I find as I move toward using more federated network, I find that I can actually get more actual interactions that I need, that I’ve never received anywhere else. But on some level this is a mechanism of coping, not unlike the girl on the street who is doping. Yet not third world enough to grant sympathy.
 
@@ -266,7 +270,9 @@ I wanted to reject all Romance languages. My ex, whom I had known in trans suppo
 It took at the strength I had.
 
 But I also had a darker secret.
-A Dangerous Game Of Deranged Chess Masters
+
+
+### A Dangerous Game Of Deranged Chess Masters
 
 Love crashes into you like an oncoming van, crash victim speeding on a motorcycle fueled up on nitroglycerin; the dangerous game of deranged chess masters warring for to win a round of blow jobs and doggy style. A game of blood, necks, and teeth; the angular blade hitting similarly to a headman’s sword. There was a time I didn’t think I’d ever date, preferring to recline in a private jet and masturbate; watch nothing but porn stars on holographic screens, textured with various kinds of cell shading.
 
@@ -293,7 +299,9 @@ And I dreamed of severed lady heads, laying beside me on my lap. The last moment
 But life is a guillotine.
 
 You have to be cut throat.
-My Own Desires
+
+
+### My Own Desires
 
 When I had met Anna-Marie, one of the first nights we allowed her to visit my place, was when she had various cuisine styles she wanted to teach me, because she knew that I liked to cook. She introduced me to Pate D’Alsace, and when I lovingly spoke French to her, she would always correct me on the grammar. But I always took it in good cheer. There was some reason I knew that she didn’t want to come back to her place, so when I was visit with her outside of these occasions, she would hang out at the local bookstore, focusing primarily on foreign language. Of course, the language she chose would be French.
 
@@ -338,7 +346,9 @@ Needless to say, she didn’t take this challenge to well. So I built up this su
 My body was object, rotten meat,
 
 I caved into my own desires.
-No Breads To Share
+
+
+### No Breads To Share
 
 You may wonder, if the technology were available, why I would personally choose not time travel; the reason is simple, whenever I wrote about time travel at a young age, it was a matter of allowing myself the witness the execution of my beloved princess within the pages of a digital LitRPG novel. There was something about the flow of blood, draining from their severed neck. And the feeling of fluid that once gave life feeding my inner core. In traditional Vampire lore, the vampire is the one that drains the blood.
 
@@ -399,7 +409,9 @@ A land of dirt and decay.
 The dead is arising.
 
 And there is no bread to share.
-Resentment For The
+
+
+### Resentment For The Mortal Life
 
 I grew a total resentment for the mortal life; the life of crawling into ones own inner cave. A cave where only the good die young, the bandits die younger. And those in between are tossed into a hell in between. I wanted some vague nation, of a distant love beyond masturbation lotion. A girl I could travel Europe with, leave the United States behind. And travel her old country of Alsace. Where the flowers were always blooming, even if it were not the land of the University Of Flowers. Ride on airships and and hot air balloons. And think of soft fluffy teddy bears.
 
@@ -440,9 +452,11 @@ I didn’t like dead girls, what I liked was blood. Not sure what this girl’s 
 My Anna-Marie, who was always there.
 
 To set my soul free.
-The Cyber Mortuary of A Severed Head
 
-SCENE 1 – VENDING MACHINE – CAFETERIA
+
+### The Cyber Mortuary of A Severed Head
+
+#### SCENE 1 – VENDING MACHINE – CAFETERIA
 
 HEMATO: Oh hey Anna-Marie, quoi de neuf?
 
@@ -454,7 +468,7 @@ ANNA-MARIE: Wow, that’s a little weird don’t you think?
 
 HEMATO: Especially in a high school cafe, no less.
 
-SCENE 2 – CEMETERY – MIDNIGHT
+#### SCENE 2 – CEMETERY – MIDNIGHT
 
 Hemato would visit the cemetery every midnight. It became something akin to a ritual. She’d take her virtual reality head set, and have romantic picnics alone with her dead bride.
 
@@ -464,7 +478,8 @@ Hemato carried around the severed head of Anna-Marie, after Hemato refused to le
 
 HEMATO: We can be together in death.
 
-SCENE 3 – CYBER MORTUARY
+
+### Digital Catacombs
 
 Hemato’s dead body would later be found, but Anna-Marie’s head was barely alive. Hemato’s mind was uploaded to a digital catacombs. As was Anna-Marie’s.
 The Severed Head Of Anna-Marie
@@ -594,13 +609,9 @@ But then I thought of the poor Anna-Marie, something other than myself. I rememb
 And so I tried to think of yet more lyrics:
 
 O the short girl walking up the stairs,
-
 Is turning gray, mixed with dirty blond hair.
-
 In her wooden clogs that abruptly come to a point,
-
 With her arms behind her back, she’s offered a joint.
-
 She dies beyond the scaffold stairs.
 
 It wasn’t quite what I wanted it to be, but it was something for now. I wanted to come up with even more lyrics.
@@ -608,30 +619,25 @@ It wasn’t quite what I wanted it to be, but it was something for now. I wanted
 So I went all out:
 
 With a German dress she leans on the block,
-
 Waiting, waiting for the ax to drop.
-
 When the blade goes a lop,
-
 Tumbling curly dirty blond hair goes down,
 
 I wanted something was was more about the husband, so I didn’t want to focus on her mother’s death for to long:
 
 Here lies the broken thief, who stole a coral reef / on a fisherman’s boat.
-
 She tossed her husband off the boat, not intended him to drown,
-
 Before drowning in her own sorrows, becoming a clown.
 
 I felt like I was getting into the rhythm of the poem, though I wasn’t exactly sure what the concluding lyrics would be. But I decided, I going to finish it:
 
 Here is the thief, Whose life came to a stop.
-
 Together they join hands in Purgatory,
-
 Beyond the light in a pop.
-
 The tragic life, Of a fisherman’s wife.
+
+
+### Can We Just Decapitate That One?
 
 “Can we just decapitate that one, she’s French.”
 
@@ -686,6 +692,9 @@ At first this effort seemed to be working.
 We were both runaways.
 
 She was now a runaway from life.
+
+
+### Farewell To James
 
 I tell James I will be going far away forever, that I’ll miss him.
 
@@ -749,6 +758,9 @@ I reached out for her hand in death.
 
 We married in death.
 
+
+### Artificial Heaven
+
 I’ve never been on a date before, but there is nothing like a ride on a hang glider. I sometimes worry about whether Anna-Marie may fall. But I have confidence in her abilities. And at this point, it’s not like either of us can die anyway.
 
 We watch the world above us as the clouds of darkness converge. Yet for us there is a kind of hidden rainbow, where even the most broken of lost children can find some happiness in their new life. It wasn’t heaven in the traditional sense, but also might as well have been. When your mind has been completely copied and your life force transfered over to a computer, the difference between actual paradise and electronics is unimportant. I pointed her in the direction of the stop, and we flew together holding hands. I wondered what kind of new stories could be told between me and Anna-Marie.
@@ -774,7 +786,9 @@ I used to want to court girls who I wanted to rescue, but would would prefer bei
 The angular blade sliced through neck in three seconds. The head dropping into the wicker basket, the blood dripping onto her face. As her head was picked up for all to see, I could see her fading expression on her face.
 
 The face of Anna-Marie La Mort.
-Children At Heart
+
+
+### Children At Heart
 
 Between this lifetime and the next, in artificial heaven, one may meet their true love again. I met Anna-Marie Boeglin under different circumstances. It’s funny how the circumstances of your life don’t change one lifetime to the next.
 
@@ -910,6 +924,9 @@ So me and Anna-Marie formed our own family.
 
 The Marie-Tomatos.
 
+
+### Blood On Anna-Marie's Face
+
 At night I would have dreams of blood on Anna’s face, I would here her crying faint tears. I would snuggle in her arms, and try to console her. After all it was the least I could do. It wasn’t easy finding someone you thought was a man at first you could trust, and then only find out later that what you know about the relationship was a lie-insofar as what gender she thought I was. But eventually it became a normal family.
 
 I could have a family again.
@@ -1036,6 +1053,9 @@ However by the time bedtime rolled around, bother her brothers fell gravely ill.
 
 So she stabbed both her parents.
 
+
+### The Neighboring Screams
+
 When the neighbor heard screams, the neighbors got involved. Law enforcement did not particularly dealing with cases dealing with child abuse, but had particular disdain of the old majority that ruled this country, even if perhaps the evidence suggested that Betty’s real mother was French.
 
 Betty had a quick trail, some suggested judicial error.
@@ -1145,7 +1165,9 @@ Everyone else besides her ran.
 “Why didn’t you let me die.”
 
 “I couldn’t resist the mix of joy and sadness.”
-Where The Outlaws Came To Play
+
+
+### Where The Outlaws Came To Play
 
 We were outlaws beyond the dreamer’s edge, so I couldn’t complain. The life of me being a mix of reality and non-reality, the conceptual life bleeding into the real. I wasn’t sure how she would take my cyber sexuality, or my inability to trust her. But she didn’t mind. Not enough not to go down on me.
 
@@ -1214,6 +1236,9 @@ And yet Anna-Marie is gone.
 “Nothing that you didn’t melt away.”
 
 “Then lets make a new world together.”
+
+
+### Lisa-Marie
 
 Lisa-Marie did not know her father well. Even when he was still in the United States, he would hardly ever be home. To this day she still wondered what he would be like, if she ever went to see him. After her mom died, she turned to the streets. She was finally able to switch to wearing princess dresses again.
 
@@ -1332,6 +1357,9 @@ And it was with this, I remember why it was I came to trust Hemato-Tomato, the v
 
 A head of the game called life.
 
+
+### What They Tell You About Neighbors
+
 Nobody what people tell you about neighbors, there was something different about knowing one who kept talking and talking, and never seemed to stop. Beverly was the type of woman to visit the offices of each scientist in order to tell them how to do their job, and never seemed to stop talking until it got to lunch break. There was something hidden drive in this woman, it was always a pain to listen to, while my severed head floated in green liquid coolant. But knew ways to dig right down into your soul, and inquire deeply, something that, while mom was able to do, always had certain objectives in mind rather than simply paragraphs of audio speech, rather than hemming and hawing all the day long day, blurting out like rail road cross-bars.
 
 Beverly had wanted to lose weight rapidly, never ascribing to politically correct ideology, but had been overweight for many years. All those years at the swimming pool, all those years of my neighbor’s childhood spent by bringing friends over, and only just now was this spent cutting down on the birthday cake. Every day was a break, though it was never absolutely clear what she did for work during the week. My guess was that she worked at a blue collar job, like most in my and Hemato’s neighborhood. Yet the hours seemed to go by faster than usual, when Napoleon’s forces invaded the gated community of Chattanooga. A community now that barely resembled the old one our childhood, and not even a French city.
@@ -1391,10 +1419,10 @@ We could be a family again. I thought I heard words from Anna-Marie.
 We all group hugged.
 
 “Famille!” Anna-Marie said.
-Part Two
 
-Uploaded Fairy: The Family Of Lost Purgatory Girls
-Super-Sentience
+## Part Two: The Family Of Lost Purgatory Girls
+
+### Super-Sentience
 
 The bloodshed was easy, cleanup was harder.
 
@@ -1417,7 +1445,8 @@ She woke up in a cave, and there were several scattered parts from different war
 She preferred French press.
 
 Not mayo and mustard.
-Dangling Like A Noose
+
+### Dangling Like A Noose
 
 Nadine had hoped that after Voreth’s Promise merged with reality, there would be an end to some of the social dynamics that made old social networks what they were; no more would there be social networks that made it easy to quietly observe other people’s profiles, then write indirect passive aggressive comments about people. But over time, what happened in the digital world became increasingly common place in the non digital world. Nadine held onto life on a dagger’s grip.
 
@@ -1480,7 +1509,9 @@ It was one of the few time they bounded with each other sense they were kids, bu
 It was a reminder of a more innocent time.
 
 If it were dangling in front of you with a noose.
-An Inhuman Mass Of Pixels
+
+
+### An Inhuman Mass Of Pixels
 
 The teacher was an inhuman mass of pixels.
 
@@ -1574,6 +1605,9 @@ She peeked outside her peek hole on the door.
 “We’ll get along great, you seem loving. But keep your nose clean.”
 Locking Her Father Out
 
+
+### The City In The Sky
+
 Scene 1 – Sky Apartment
 
 (Memory Sequence)
@@ -1625,7 +1659,9 @@ A “war dog”, a remnant of an old military robot canine from the two civil wa
 Slephner shoots a shotgun at it.
 
 SLEPHNER: Besides, it’s dangerous out her so late.
-Mean Streets Of The Alleycat
+
+
+### The Girl With The Lead Pipe
 
 Every since he got home from work, her father only watched television. It was old reruns of classical western sitcoms, which made Ellen wanted to vomit. But it was better than actually being a cowboy, with all their chauvinistic values. All their girls being rescued from the hangman’s noose. She herself had largely given up watching the set, and had largely tuned herself out from the larger world. It was not just the educational channels that gave her a headache. But also the cartoon channels. Part of her still wanted to reclaim the lost joy of flickering lights. When she had went to the arcades, she had met Slephner for the first time. It was one of the few occasions she didn’t mind little Indians and cowboys shooting at each other to the death.
 
@@ -1648,6 +1684,9 @@ He shot the spider several times, to make absolutely sure it was dead.
 “It’s a long story.”
 
 Ellen carried the stuff she could carry, along with the last fifty dollars she would ever see, into her new life as an adult, despite being ten years younger than most. But it was better than being an alley cat on these streets.
+
+
+### Mean Streets Of The Alleycat
 
 It was school where Malcolm failed his grades. He was one of the few that still went to standardized education. The topics about human anatomy were never something he payed much attention to. At least that part of his life was over; but not the endless calling from his father that broke the silence like nails on a chalkboard. If the windows were made of normal glass, they would have broke. While his father wanted to lecture Malcolm about his grades, the boy himself thought of it as has dad just wanting to use him as his sounding board. “Why are we talking about my grades now? Hadn’t he already?”
 
@@ -1679,6 +1718,9 @@ She could remember the sound of being dragged on a metallic table to see the goo
 Yet now as she looked to the stars, onward into the aristocratic Utopian mess she once lived, which made her realize, being down here, how good she had it. And yet, while she didn’t completely trust her new friends, she wouldn’t trade them for the world.
 
 She lived in her own darkness.
+
+
+### Leaning On Shoulders
 
 When Nadine woke up, she found Blanci leaning her head on her shoulders. Nadine could sense her faint outline, as she grasped for air. “Here, have this head ache body. It can help the pain a little bit.” Blanci offered. Nadine grabbed it without hesitation, almost fall asleep. “Please stay awake, it sure gets lonely here.”
 
@@ -1713,7 +1755,9 @@ Yet the hacker instinct ran wildly. Life was like an electronic keyboard, with v
 To think, her and Brittney became so different.
 
 Like life fracturing into broken glass.
-An Outcast In Love
+
+
+### An Outcast In Love
 
 When Nadine used to write little diary entries, she got into the mode where every poem I written was a suicide letter in miniature; a song about the lost moments of life. In their slow rhythmic melodies, she laid the groundwork for my own inner destruction. And there was a part of her that relished the thought of being completely forgotten.
 
@@ -1765,6 +1809,9 @@ Life flowed like scattered bits of rain. Scattered screenplay scripts, where the
 
 A total outcast in love.
 
+
+### Decieving Appearance
+
 Sometimes the way that people look, can vary considerably from how they actually are as a person. One may appear innocent, but be completely corrupted; the inverse is often also the case.
 
 For Nadine, as she indulge in the pleasure of the lady’s faces in digital entertainment, often she recalled back to when she would meet girls in the earliest of her grade school years. Those years ago, when her soul was much more free, she wanted to join the secret service, but found it to be to much for her heart. Whenever she saw other girls that were more pretty than her, she would often become jealous of their particular assets. Whether this was their style of their Birkenstock sandals, or the color of their flowing dress.
@@ -1776,7 +1823,9 @@ Nothing but a life turned to dust.
 Yet now, beneath the iron sky turned to rust and red rain, under the sky of thousand suns, Nadine never felt brave enough to voice any of her feelings. She was left jotting notes of a former life.
 
 The life of a new alley cat.
-Eat Quietly, Then Leave
+
+
+### Eat Quietly, Then Leave
 
 “It’s alright Slephner, I know you don’t like me personally.” Slephner never saw her again. Since then his first girlfriend hung herself in her room. With nowhere else to turn to my sorrow, Slephner turned to the arcades.
 
@@ -1845,7 +1894,9 @@ You guys just can’t get along can you, Nadine thought.
 Outside the diner, Ellen and Slephner walked inside through the sliding glass doors. To the table right behind them they sat. The Purgatory dwellers tried not to pay any particular attention to the Dangervilles. Just eat quietly, then leave. Slephner eye-balled Nadine’s famille with his grill. Malcolm did not really seem to notice or care.
 
 Nadine did not really understand how anyone could get used to it, with that tension that was boiling under the surface.
-The Wolves Cry Out
+
+
+### The Wolves Cry Out
 
 SCENE 1 – OFFICER’S OFFICE
 
@@ -1902,10 +1953,11 @@ NADINE: It’s a long story, but in short, I came from the city in the sky. You 
 ELLEN: But can you trust us, and especially me?
 
 NADINE: It looks like I have no other choice.
-Part Three
 
-The second part of Uploaded Fairy.
-Her Manifest
+
+## Part Three That That Time Nadine Realized Saving The Princess Was The Only Way Home
+
+### Her Manifest
 
 It was a chill unlike any other chill she had sense. Her brother reminded her of her vulnerable position, with her eye ball. He knew her pressure points, and despite her unique resistance to pain. This aspect scared her the most.
 
@@ -1928,7 +1980,9 @@ Yet one some level she cared not if she lived or died.
 So long as she could make her death visible to all. So that the people may see how they treat those who go against big brother.
 
 This was her manifest.
-Breaking The Game
+
+
+### Breaking The Game
 
 Rassie called up Nadine, using the Rune platform. She wondered if anybody was still using that instant messaging system, as recently the people she was observing behind those television camera placed in through a secure location attachment, was that they were using some other system. Because they were already suspecting something was up with their L.E.D displays, the standard television format for those that were no part of the underground, they were using some sort of dialect that she was unable to recognize. Thus this was a gamble. Part of her actually want to go on-site, in order to ask directly. Even though she was no longer enthused by her present line of work, she figured they would probably view her as a traitor. After all the sand crawler riders were in unruly bunch. In her mind she pictured one of them taking her head off with a guillotine gun, and placing her head on a stick. Did not want to think about that again, that sucked dick. At a moment’s notice, she got the call.
 
@@ -1997,7 +2051,9 @@ But in the present.
 “I wanted to see if I could break the game.” said Nadine.
 
 “Well you broke the game alright.” said Rassie.
-The Deepest Blood Of The Heart
+
+
+### The Deepest Blood Of The Heart
 
 SCENE 1 – SIMULATION – MEDIEVAL VILLAGE
 
@@ -2102,7 +2158,9 @@ Nadine had originally hated Millie. She represented everything about fantasy cha
 But she needed to return home, despite her hate.
 
 Even if it was herself.
-Something Somewhere Lurking
+
+
+### Something Somewhere Lurking
 
 The next morning that the three travelers were woken up. It was Rassie who was intrigued, yet remained behind quietly. Even Rassie was not aware of the fact that she was secretly recording the conversation from earlier, and Tanner was using this as a reference point to form a conclusion based on the previous failed gaming session, where Nadine had … by their hypothesis, seemingly opened a door to another universe. Though how could the universe seemingly restart every time they plugged into the machine. And why were they somehow unable to go back to their home world now?
 
@@ -2191,11 +2249,8 @@ Millie remembered when her parents were in a similar situation. She and her sist
 “What now man! What!” Malcolm could not believe it. Quartering? He never even knew this could be done in the game, and how the programmers of the game could only do so much. Because to him in his mind he still considered this to be a game. But perhaps maybe it was this child like mentality, that helped him think clearly. The knight exited the hallway, and it was Malcolm that called the group together. “I have a plan.” But Nadine had a song of her own, playing in her head:
 
 Somewhere, something, watching,
-
 In a room, far away,
-
 Somewhere, lurking, everywhere.
-
 Watching, for the night.
 
 Malcolm and Rassie led the group. “I don’t trust Nadine to lead the pack, she’ll just mess something up, like allow Millie to get caught. ‘Oh I read your sub text Rena, don’t think I’m not on to you to.”
@@ -2203,19 +2258,14 @@ Malcolm and Rassie led the group. “I don’t trust Nadine to lead the pack, sh
 Nadine was still singing:
 
 Waiting
-
 for the night
+to come ...
 
-1           to come ...
-2 
-3           haunting
-4 
-5           the un-lit
-6 
-7                            house.
+haunting 
+the un-lit
+house.
 
 It is watching, watching,
-
 Beyond the door.
 
 “I would guillotine gun you if I had one.” said Rassie.
@@ -2235,6 +2285,9 @@ They rushed out of the prison, and it was Malcolm that continued to shoot guards
 “Rassie! No!” Nadine reached out, to try to save her. As she did not want another life to be on her hands again, like poor Millie.
 
 “Farewell friends, for it is only a game.” said Rassie
+
+
+### Rassie's Last Stand
 
 It was the next day, Rassie was released from prison. She was sent to the court yard, and climbed the steps. The headsman ripped open her shirt, and she placed her neck upon the block. As she stared into the basket, fear at first came over her. Then realized it was one less soldier working on Tanner’s side. She had won.
 
@@ -2286,26 +2339,23 @@ When Nadine herself went to see Blanci, it was with Ellen and Millie. Nadine som
 She published a song, To Nevermore:
 
 On a
-
 bed, sleeper’s
-
 sleeping …
 
 In their
-
 head, dreamer’s
-
 dreaming.
 
 Of a
-
 meadow light,
-
 heaven.
 
 It was the second date with Ellen, that her life became more bearable. Ellen held Nadine’s shoulders in a warm embrace, under the glow of the sunset on a distant shore. “Come with me Nadine,” she said, tenderly. Then just before the kiss. “where the meadow is always real on the other side.”
 
 To the Meadow they went.
+
+
+### Blanci's Funeral
 
 Nadine, Ellen, Millie, and Malcolm went to go visit the grave of their friend Blanci. Though Nadine in a way had experienced the feeling of loss like Malcolm, for her everything was entirely undone. It was almost as if trying to bring someone back from the dead, made the gaming gods, those eyes in the sky, hate her so. Malcolm is crying and kneeling at the little makeshift grave in a lesser known neck of the woods of the world underneath the sky of rows of city-streets. Where the meadow of gold is always shining, and gives a false sense of hope.
 
@@ -2348,10 +2398,11 @@ Eventually Dantino would die for the length of two years, and he was on his firs
 He found this opportunity.
 
 But he needed to hurry.
-Part Four
 
-The fourth part of Uploaded Fairy.
-Attack Of The Ape-Goat
+
+## Part Four Remnants Of The Game
+
+### Attack Of The Ape-Goat
 
 After the game world merged with world of reality, Millie and Elena manifest into our universe in the form of Cyborg avatars: 3D printed organic flesh suits on a metallic mechanical skeleton, and a digital mind. Many of the peasants in the world Voreth’s Promise manifest in a much similar fashion. This created weird social effects, as society was already headed into the direction of borderline self-ware androids, though those are subtly different from what we tend to call cyborgs.
 
@@ -2376,7 +2427,9 @@ Slash! The Ape-Goat’s arm was taken off. It stopped the bleeding with one of i
 “What took you so long?” Millie said.
 
 “I was attacked again.” said Nadine.
-The King Quaterer At The Edge Of Dreams
+
+
+### The King Quaterer At The Edge Of Dreams
 
 Nadine had long broken off contact from her parents: even basic parental duties like defending her against total strangers had been completely broken. If this were the real middle ages, and she were queen, she would have already have them both hung. But there wasn’t much use continuing to think about it, beyond the memories, and they had long sense deteriorated into dust. Her mother in particular, was less about being right, only that she is correct.
 
@@ -2403,7 +2456,9 @@ Here, the AI maintained a certain level of sentience, that unlike ones that cont
 “Then why was I brought here?” Nadine asked, lighting up an American Spirit. This lit the room enough to see a translucent hologram of a young woman from nearly a century ago back in two thousand and nineteen. “I have things to do.”
 
 “Dantino has returned.”
-Minor Hearing Loss
+
+
+### Minor Hearing Loss
 
 Nadine had minor hearing loss for many years, but first developed the signs when she was in her early teens. It didn’t help that she was also having to carry around a robotic arm and leg. But she never commented on it out of a sense of pride, and simply let Blanci think that she was ignoring her. But the issue grew gradually worse over the next nearly twenty years, until she eventually had to get ear drum replacements. She kept the old style of prosthetic arms and legs mostly as a form of nostalgia and retro fit, but for her hearing she wanted something as realistic as possible. But even today she would wonder what gaming would be like if she couldn’t hear, but even this would be nowhere near as bad as not being able to see. Even if they gradually improved prosthetic eyes.
 
@@ -2438,7 +2493,9 @@ It was Nadine.
 “He’s just a game character, nothing more.” Nadine said this partially out of jest, despite knowing full well that the distinction between game character and human being was largely that of a semantic one. “As are you and Ellen, though I suppose it doesn’t make that much of a difference.”
 
 “You don’t say!”
-Attack At The Community Center
+
+
+### Attack At The Community Center
 
 In the morning, when Millie was milking the Ape-Goats, Nadine went to main community center in order to find a quest, but found that it was largely empty, aside from some slaughtered game world pets. She stared into the back of a man in a large trench coat, with a note able metallic arm, that vaguely resembled an arm from a knight in shining armor. “Nadine! Nadine! It’s good to see you…”
 
@@ -2489,6 +2546,9 @@ Mostly they ran across different neighborhoods, mostly seeing broken mailboxes t
 Eventually they arrived.
 
 All the shops collapsed.
+
+
+### Waiting In The Darkness, The King Quarterer
 
 Dantino waited a the community center, sharpening his curved great sword with an edging stone. The sword, though double edged, was closer to a Katana than anything else produced in the west. He enjoyed lopping off heads at fairy girl’s behest, this, after all, was what he did best. The sharpened protrusions give him a mixture of pleasure and discomfort; discomfort because he had also fight along side the princess with this blade that he had inherited from so long ago. But the edge was a constant companion, far more loyal than his most noble of fellow knights. As he walked through the enchanted forest in search of the digital fountain of youth, he remembered how his body had been modified with a robotic replacement to his old left arm, that had itself been disfigured do to gradual replacement of real limbs with segmented of plaited armor. The tale of amour for his armor, if not for anything else in the world.
 
@@ -2581,7 +2641,9 @@ Indeed, Nadine thought. It was all merely a game.
 A game, through all the petrified forests.
 
 Her game, as her tailored nightmare.
-Hair Like 80s Synthwave
+
+
+### Hair Like 80s Synthwave
 
 She had the ponytail that reminded one of princesses from eighties fantasy movies. The only thing missing was a frilly royal dress.
 
@@ -2718,7 +2780,9 @@ Nadine wasn’t sure how to respond, it was to much for her to put her mind arou
 Millie stormed off to Nadine’s futon. Nadine didn’t mind her attitude as much as she used to. She knew that love could be like a maze in a rogue like game. These days all to literally. She could dream of procedural generated dungeons, with her love always out of reach. She could climb endless floors in a tower, and her devotion brought her beyond all permanent death limitations. She fought Minotaur and demons, and unmentionable demons. Millie was the one that kept her holding on, when all hope was lost.
 
 She was the princess, at the top of the tower.
-Nadine Wanted To Rot
+
+
+### Like Matter To Anti-Matter
 
 – Yea we attract each other all right.
 
@@ -2768,6 +2832,9 @@ Millie returned home from her unofficial date, a shake that was first rat. Nadin
 
 And somewhere, in the distance, was the memory of Blanci. Her physical body had died, beheaded by a guillotine gun. Yet her mind was backed up on a computer chip, smaller than a thumb drive.
 
+
+### Figments Of A Blanci Hologram
+
 She once cut through bullshit like a knife, yet grew her own meat space avatar. The process took three weeks per side, six total. One in the back, the rest front and center. Her love for Nadine was just a splinter, yet her feelings for Malcolm were more. Yet Malcolm had no attachment, preferring the company of Slephner who now was dead. Yet in this world both game and reality, she wanted to hold onto that last bit of relationship she could handle.
 
 She wanted Slephner gone.
@@ -2795,10 +2862,14 @@ No longer did she ask the world why. Instead she sinks without a trace, into the
 As long as she wasn’t in it.
 
 She wanted to rot.
-Part Five
 
-Vella’s stories.
-Birth Of Mr. Clocktime
+
+# Everything after this
+This will be part of the extended universe that includes my other novellas.
+
+## Part Five Vella’s stories.
+
+### Birth Of Mr. Clocktime
 
 Sometimes you reach just the edge of darkness, only to run away in fear. Some other times, you become the darkness itself. Whatever fears you once had, feel minor in comparison. Your chosen life. In the heart of truest darkness, there lay beyond a certain kind of light. When everything fades away, one can say goodnight. Goodnight to all the ills of the life, goodnight to life itself. Goodnight to the wind, in its calm cooling embrace. The shadows keep one company, under the glow of the starry night. The fireflies that are born and die glitter under the glow of the “Meadow Of Gold”.
 
@@ -2813,7 +2884,9 @@ Mr. Clocktime, about six foot nine, carried around a large black cane. His top h
 Vella, the new half breed of god and messiah.
 
 Come to the night.
-Mr. Clocktime Eats Chinese
+
+
+### Mr. Clocktime Eats Chinese
 
 It was an old Chinese restaurant, called Taste Of Chicken. More accurately, it should have been called Taste Of Fish. You could go through the isles all day, and only find one dish that involved chicken. The food was to sweet, and yet that was not as overbearing as the taste of the sea. The waitress was cute enough, but soon it was time to leave. ‘I’ve never been to a Chinese place like that.’ said Mr. Clocktime, and with a tip of his hat, flew into the sky.
 
@@ -2848,7 +2921,9 @@ Nadine rode her motor bike to the hospital, and her clogs almost slipped on the 
 Vella relationship with Nadine had gradually began to dissolve. Nadine never really intended this to happen. Certainly Nadine never wished to be like her mother, who was a smarmy politician that had reached a kind of pseudo NSA status in the potato district. ‘I care about you Vella.’ Nadine said.
 
 ‘Then act like it.’ said Vella.
-Mr. Clocktime Sees Hope In Vella
+
+
+### Mr. Clocktime Sees Hope In Vella
 
 Though the whispers are only barely there, the sounds of rats remain in the sewers within the crawlspace below the city. Cries of the angels call out to one, and yet no creature is stirring. Whispers, nothing more. Mr. Clocktime exists in a kind of in between state; he is always watching you as he is everywhere, and yet exists nowhere on this Earth. Scarcely does anyone mention him by name, he is simply there under the glow of the Arsonist’s flame. His riddles are felt everywhere he goes, and yet as far as most hear no words are spoken. For he is the Grim Reaper, that other than Nadine, only those who are young may see. Vella had returned home to her parent’s apartment flat. It a run down joint no much larger than studio, yet the rent was always cheap due to the area they lived in. She wondered if the box was still under the couch where she had left it. Everything seemed to be back to normal; all of her friends parents were back in their homes. Vella was never one for sentimentality, and yet felt such to finally have a normal life again.
 
@@ -2897,7 +2972,9 @@ Vella arrived at school, and noted that while all her friends were there at the 
 “Indeed Vella, a good daughter you are.” said Mr. Clocktime. And with a snap of his cane on to the parking lot road, sent time backwards. Until eventually Vella was back in bed, and all the adults were back in the world again.
 
 Then he hopped out of time.
-Mr. Clocktime Entertains Vella
+
+
+### Mr. Clocktime Entertains Vella
 
 He tipped his hat forward, to step out of the rain. Then tapped his cane on the door, in order to close it. Mr. Clocktime had come to visit Vella after she got off from school. He had carefully let Nadine know in advance that he would be arriving. He saw Vella’s two little wooden shoes by the door, letting him know that she was home. – Vella, it’s your father.
 
@@ -2920,7 +2997,9 @@ There were parts of him that even Hemato-Tomato could not understand, some bit o
 – Why do I have to go to school?
 
 – Nadine’s orders.
-Vella Could Hear The Hum
+
+
+### Vella Could Hear The Hum
 
 Vella thought she had a rival, then she realized it was just a computer. No matter how much data you filled it, it was always the same; it would never come out with anything creative. It might be able to fake it by using your words, in a psychopathic manner, against you. But it was still the flow of pixels in the screen. She fed all the data from her old friends different tests, hoping the computer to generate something consistent. But there was a part of her than on some level, she knew she couldn’t fool her sensei. She wasn’t sure why her mother continued to insist on programming her own stuff, as computers seem to do just about everything these days, from cooking to chopping your head off. Any irregularities was simply the standard unevenness in the automated manufacturing process. – Would you stop playing video games, if an AI could play better than yourself?
 
@@ -2945,7 +3024,9 @@ All in a days work, after a taste of ordinary Chinese food at midnight galore. I
 – Perhaps I’ll see this world again, someday soon. He hoped all the way to the moon.
 
 And the moon winked.
-The World Of The Potato District
+
+
+### The World Of The Potato District
 
 Vella remembered the stories Nadine would tell her about her teen years. How it was almost to an epidemic proportion how many of her peers had at least some variation of post traumatic stress disorder; the symptoms were distributed in lots of different ways. The main factor were the two civil conflicts that split the once United States, one of which was the various miniature revolutions that finally separated America from the rest of the French neo-colonial power. It used to be, about 110 years ago, that people wore rubber and plastic shoes. Yet the richest among the proletarian wore wooden shoes. In a sense, in some ways it seemed like society had went backwards.
 
