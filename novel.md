@@ -47,6 +47,8 @@ HEMATO: But what about the others? (Points to the guards attempting to rescue to
 
 HEMATO: I will deal with them.
 
+## Part One Hemato's Story
+
 ### My Name Is Hemato
 
 My name is Hemato-Tomato, I have a thing for blood.
