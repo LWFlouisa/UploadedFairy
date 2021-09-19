@@ -16,3 +16,5 @@ Uploaded Fairy is a four frame novel about an apprentice executioner torn betwee
 I am a short story, novella, and poetry writer who does webcomics. I'm also into artificial intelligence development.
 
 {% include authorsocialmedia.html %}
+
+I can also be found on Sayches and Ello: LWFlouisa
