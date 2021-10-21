@@ -9,6 +9,11 @@ permalink: /about
 
 Uploaded Fairy is a four frame novel about an apprentice executioner torn between love and justice, and a gamer girl in danger of repeating the same desires.
 
+You can also find my webcomic on:
+
+[Comic Rocket](https://www.comic-rocket.com/explore/uploaded-fairy/)<br />
+[Comicfury](https://uploadedfairy.thecomicseries.com)
+
 {% include socialmedia.html %}
 
 # About the Author
